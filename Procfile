@@ -1,1 +1,1 @@
-web: npm try
+web: npm start
