@@ -25,7 +25,7 @@
     "yup": "^0.32.9"
   },
   "scripts": {
-    "try": "npm install && npm run build",
+    "try": "npm install && npm run build && npm run start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
